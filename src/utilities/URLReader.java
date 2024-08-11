@@ -10,10 +10,6 @@ import java.util.List;
 
 public class URLReader {
 
-    /**
-     * Opens and reads the URL.
-     */
-
     public static List<String> readURL() {
         List<String> s = new ArrayList<>();
         try {
