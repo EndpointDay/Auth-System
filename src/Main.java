@@ -9,6 +9,8 @@ import java.security.NoSuchAlgorithmException;
 
 public class Main {
 
+    // you can make a method that check if the app version is not outdated else it crashes
+    
     public static final String VERSION = "0.0.1";
 
     public static String getVersion() {
