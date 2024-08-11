@@ -1,4 +1,4 @@
-# Java Auth System
+# Auth System
 
 ## Overview
 
