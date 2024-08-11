@@ -13,7 +13,7 @@ import java.util.List;
 public class HWIDManager {
 
     /**
-     * pastebinURL example: pastebin.com/raw/pasteid
+     * pastebinURL example: https://pastebin.com/raw/pasteid
      */
 
     public static final String pastebinURL = "";
